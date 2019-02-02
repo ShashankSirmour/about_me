@@ -1,1 +1,3 @@
-# about_me
+# About Me
+ 
+![MY PHOTO](/images/01.jpg)
