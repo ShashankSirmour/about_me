@@ -1,3 +1,3 @@
-# About Me
+# SHASHANK SIRMOUR
  
-![MY PHOTO](/img/01.jpg)
+![MY PHOTO](/img/01.png)
