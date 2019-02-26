@@ -1,3 +1,3 @@
 # SHASHANK SIRMOUR
- 
-![MY PHOTO](/img/01.png)
+
+![MY PHOTO](/img/01.png=200X200)
